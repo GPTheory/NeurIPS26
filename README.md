@@ -18,3 +18,4 @@ MAX: A proven exponential speedup. In Proceedings of Advances in Neural Informat
   - [experiments/plot/](https://github.com/GPBench/TinyverseGP/tree/neurips-2026/experiments/plot)
   - [experiments/evaluation/](https://github.com/GPBench/TinyverseGP/tree/neurips-2026/experiments/plot)
  
+
