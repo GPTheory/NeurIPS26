@@ -14,7 +14,7 @@ MAX: A proven exponential speedup. In Proceedings of Advances in Neural Informat
 - Run scripts used for our experiments
   - [examples/analysis/max](https://github.com/GPTheory/NeurIPS26/tree/main/examples/analysis/max)
 - Datafiles of the experiments, plot scripts and additional statistical evaluation 
-  - [experiments/](https://github.com/GPTheory/NeurIPS26/tree/main/experiments)
+  - [experiments/csv](https://github.com/GPTheory/NeurIPS26/tree/main/experiments/csv)
   - [experiments/plot/](https://github.com/GPTheory/NeurIPS26/tree/main/experiments/plot)
   - [experiments/evaluation/additional_statistical_evaluation.pdf](https://github.com/GPTheory/NeurIPS26/blob/main/experiments/evaluation/additional_statistical_evaluation.pdf)
  
